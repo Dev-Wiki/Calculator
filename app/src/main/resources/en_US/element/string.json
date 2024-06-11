@@ -1,0 +1,52 @@
+{
+  "string": [
+    {
+      "name": "module_desc",
+      "value": "module description"
+    },
+    {
+      "name": "AppAbility_desc",
+      "value": "description"
+    },
+    {
+      "name": "AppAbility_label",
+      "value": "Calculator"
+    },
+    {
+      "name": "calculate",
+      "value": "Calculate"
+    },
+    {
+      "name": "convert",
+      "value": "Convert"
+    },
+    {
+      "name": "length_convert",
+      "value": "Length"
+    },
+    {
+      "name": "area_convert",
+      "value": "Area"
+    },
+    {
+      "name": "weight_convert",
+      "value": "Weight"
+    },
+    {
+      "name": "time_convert",
+      "value": "Time"
+    },
+    {
+      "name": "speed_convert",
+      "value": "Speed"
+    },
+    {
+      "name": "number_convert",
+      "value": "Number"
+    },
+    {
+      "name": "bmi_calculate",
+      "value": "BMI"
+    }
+  ]
+}

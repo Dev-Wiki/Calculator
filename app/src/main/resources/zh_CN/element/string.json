@@ -1,0 +1,52 @@
+{
+  "string": [
+    {
+      "name": "module_desc",
+      "value": "模块描述"
+    },
+    {
+      "name": "AppAbility_desc",
+      "value": "description"
+    },
+    {
+      "name": "AppAbility_label",
+      "value": "计算器"
+    },
+    {
+      "name": "calculate",
+      "value": "计算"
+    },
+    {
+      "name": "convert",
+      "value": "换算"
+    },
+    {
+      "name": "length_convert",
+      "value": "长度转换"
+    },
+    {
+      "name": "area_convert",
+      "value": "面积转换"
+    },
+    {
+      "name": "weight_convert",
+      "value": "重量转换"
+    },
+    {
+      "name": "time_convert",
+      "value": "时间转换"
+    },
+    {
+      "name": "speed_convert",
+      "value": "速度转换"
+    },
+    {
+      "name": "number_convert",
+      "value": "进制转换"
+    },
+    {
+      "name": "bmi_calculate",
+      "value": "BMI计算"
+    }
+  ]
+}

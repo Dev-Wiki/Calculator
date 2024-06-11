@@ -1,0 +1,49 @@
+{
+  "app": {
+    "signingConfigs": [
+      {
+        "name": "default",
+        "type": "HarmonyOS",
+        "material": {
+          "certpath": "pack\\sign\\Calculator.cer",
+          "storePassword": "0000001B5481E637034868BA817E3587B2970184D289B5D31D4C9419623B4DC7D7BB75754FCA76D10C1041",
+          "keyAlias": "debugKey",
+          "keyPassword": "0000001BD840965E928F712E6EA53F84819A89B66F13335133910D43192ABECAA48A75BA9DD3DA3C30A55A",
+          "profile": "pack\\sign\\Calculator.p7b",
+          "signAlg": "SHA256withECDSA",
+          "storeFile": "pack\\sign\\Calculator.p12"
+        }
+      }
+    ],
+    "products": [
+      {
+        "name": "default",
+        "signingConfig": "default",
+        "compatibleSdkVersion": "4.0.0(10)",
+        "runtimeOS": "HarmonyOS",
+      }
+    ],
+    "buildModeSet": [
+      {
+        "name": "debug",
+      },
+      {
+        "name": "release"
+      }
+    ]
+  },
+  "modules": [
+    {
+      "name": "app",
+      "srcPath": "./app",
+      "targets": [
+        {
+          "name": "default",
+          "applyToProducts": [
+            "default"
+          ]
+        }
+      ]
+    }
+  ]
+}
